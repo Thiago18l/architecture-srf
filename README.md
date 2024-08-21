@@ -1,0 +1,1 @@
+## Architecture repository for studies.
